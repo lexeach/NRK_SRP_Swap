@@ -17,11 +17,11 @@ function Home() {
     document.addEventListener('DOMContentLoaded', function (event) {
 
         var dataText = [
-             "Swap RP-NRK token.",
-            "GCN Global coin- Fully decentralised.",
+             "Swap SRP-NRK token.",
+            "Smart Reward point- Fully decentralised.",
             "Lower Transaction fee",
             "Instant Fund transafer to youe wallet",
-            "Select BNB smart chain mainnet in your wallet"
+            "Select NRK mainnet in your wallet"
 
 
        ];
@@ -89,7 +89,7 @@ function Home() {
                 <div class="container">
                     <div class="banner_text_wthree
                         <div class="d-flex>
-                            <h1>Welcome to RP-NRK Swap </h1>
+                            <h1>Welcome to SRP-NRK Swap </h1>
                             <h2>swap RP token</h2>                                                  
                         </div>
                         <div id="text" class="banner_text_w3ls my-md-5 my-3"></div>

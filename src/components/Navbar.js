@@ -12,7 +12,7 @@ class Navbar extends Component {
           tEXNet="_blank"
           rel="noopener noreferrer"
         >
-          RP-NRK Swap Exchange
+          SRP-NRK Swap Exchange
         </a>
 
         <ul className="navbar-nav px-3">
